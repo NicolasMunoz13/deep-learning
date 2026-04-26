@@ -13,11 +13,11 @@ El notebook está pensado para ejecutarse en **Google Colab**.
 ### Pasos
 
 1. Abre `Practica_deep_learning.ipynb` en Google Colab.
-2. En el panel izquierdo de Colab, haz clic en el icono de **carpeta** 📁 (sección **Archivos**).
+2. En el panel izquierdo de Colab, haz clic en el icono de **carpeta** (sección **Archivos**).
 3. Sube los dos archivos CSV del dataset:
    - `HAM10000_metadata.csv`
    - `hmnist_28_28_RGB.csv`
-5. Ejecuta cada celda en orden, de arriba hacia abajo (`Shift + Enter` en cada una, o `Runtime > Run all`).
+5. Ejecuta cada celda en orden, de arriba hacia abajo
 
 ## Archivos del proyecto
 
