@@ -27,3 +27,6 @@ El notebook está pensado para ejecutarse en **Google Colab**.
 | `enunciado.md` | Enunciado oficial de la práctica |
 | `HAM10000_metadata.csv` | Metadatos de los pacientes (edad, sexo, localización) |
 | `hmnist_28_28_RGB.csv` | Imágenes 28×28 RGB en formato array |
+
+## Link de acceso al ambiente de ejecución
+https://colab.research.google.com/drive/1O19MQmI-FMcXEmsC_iLFQhVsVQCSglwn?usp=sharing
